@@ -9,4 +9,4 @@ const noBtn = document.querySelector('#noBtn');
 
 noBtn.addEventListener('click', function () {
     alert("No me rendire")
-}),
+});
